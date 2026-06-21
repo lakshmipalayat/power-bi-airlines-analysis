@@ -9,47 +9,52 @@
 
 ## Dashboard Overview
 
-The Power BI report contains five comprehensive visualizations analyzing airline performance metrics:
+The Power BI report contains five comprehensive pages analyzing airline operations and performance:
 
 ### Report Pages & Analysis
 
-**Page 1 (Screenshot 1):** Flight Performance Summary
-- Overview of on-time performance metrics across all flights
-- Key performance indicators (KPIs) for airline operations
-- High-level dashboard for monitoring overall airline health
+**Page 1 (Screenshot 1):** Cover Page
+- Title and branding page for the airline analysis report
+- Introduction to the Power BI dashboard
+- High-level context for the analysis
 
-**Page 2 (Screenshot 2):** Delay Analysis
-- Breakdown of flight delays by category (scheduled, actual, delays)
-- Identification of delay patterns and frequency
-- Analysis of delay causes and their impact on operations
+**Page 2 (Screenshot 2):** Overview - High Operational Value
+- Executive summary showcasing key operational metrics
+- Critical KPIs for airline performance and health
+- High-value insights at a glance for decision-making
+- Overview of on-time performance, delays, and operational efficiency
 
-**Page 3 (Screenshot 3):** Route Performance
-- Analysis of airline routes and their performance metrics
+**Page 3 (Screenshot 3):** Route Analysis
+- In-depth analysis of airline routes and their performance
 - Comparison of on-time delivery rates across different routes
 - Route-specific delay and cancellation trends
+- Route profitability and operational metrics
 
-**Page 4 (Screenshot 4):** Time-Series Analysis
+**Page 4 (Screenshot 4):** Aircraft Analysis
+- Performance metrics and analysis by aircraft type
+- Aircraft utilization and efficiency statistics
+- Maintenance and operational patterns by fleet
+- Aircraft-specific delay and reliability trends
+
+**Page 5 (Screenshot 5):** Time Analysis
 - Temporal trends in airline performance over time
-- Monthly/seasonal patterns in delays and cancellations
+- Monthly and seasonal patterns in operations
 - Year-over-year comparison of operational metrics
-
-**Page 5 (Screenshot 5):** Detailed Metrics & KPIs
-- Comprehensive data tables and detailed metrics
-- Airline operational statistics and performance indicators
-- Supporting data for executive reporting and analysis
+- Time-based performance insights and forecasting
 
 ---
 
 ## Overview
 
-This repository contains a Power BI analysis and report focused on airline data. The repository includes Power BI report(s), visuals, and supporting files used to explore metrics such as on-time performance, delays, cancellations, and operational efficiency.
+This repository contains a comprehensive Power BI analysis focused on airline operational data and performance metrics. The dashboard provides executive and operational insights into airline performance across multiple dimensions including routes, aircraft, and time-based trends.
 
 ## What's included
 
-- Power BI report (.pbix) and any exported assets (if present in the repo)
-- Data export or sample data files used for building the report
+- Power BI report (.pbix) with five integrated dashboard pages
+- Visualizations covering route analysis, aircraft performance, and time-series trends
+- Executive overview page highlighting high operational value metrics
 - README (this file) with usage notes and context
-- Dashboard visualizations showing airline performance metrics
+- Dashboard screenshots showing all report pages for reference
 
 If any expected report or data files are missing from this repository, please add them in a new commit or open an issue to request guidance.
 
@@ -59,7 +64,11 @@ If any expected report or data files are missing from this repository, please ad
 2. Open the .pbix file in Power BI Desktop.
 3. If prompted to connect to a data source, follow the credentials and connection steps for that data source (CSV, Excel, SQL, etc.).
 4. Refresh data if you have access to the original dataset to view up-to-date visuals.
-5. Navigate through the report pages to explore different airline performance metrics and analyses.
+5. Navigate through the report pages to explore different aspects of airline performance:
+   - Start with **Page 2 (Overview)** for high-level operational insights
+   - Explore **Page 3 (Route Analysis)** for route-specific performance
+   - Review **Page 4 (Aircraft Analysis)** for fleet performance
+   - Analyze **Page 5 (Time Analysis)** for temporal trends
 
 Notes:
 - If the report references private data sources, you may need to replace them with local sample files or update the connection strings inside Power BI.
@@ -72,8 +81,8 @@ This repository does not include an explicit license file. If you want to publis
 
 ## Contact
 
-Maintainer: https://github.com/lakshmipalayat
+Maintainer: [lakshmipalayat](https://github.com/lakshmipalayat)
 
 ---
 
-(README updated with detailed analysis of each dashboard page and visualization while preserving all images.)
+(README updated with accurate page descriptions: Cover Page, Overview, Route Analysis, Aircraft Analysis, and Time Analysis while preserving all images.)
