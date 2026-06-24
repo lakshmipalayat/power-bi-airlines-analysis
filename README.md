@@ -27,19 +27,18 @@ The Power BI report contains five comprehensive pages analyzing airline operatio
 **Page 3 (Screenshot 3):** Route Analysis
 - In-depth analysis of airline routes and their performance
 - Comparison of on-time delivery rates across different routes
-- Route-specific delay and cancellation trends
 - Route profitability and operational metrics
 
 **Page 4 (Screenshot 4):** Aircraft Analysis
 - Performance metrics and analysis by aircraft type
 - Aircraft utilization and efficiency statistics
 - Maintenance and operational patterns by fleet
-- Aircraft-specific delay and reliability trends
+
 
 **Page 5 (Screenshot 5):** Time Analysis
 - Temporal trends in airline performance over time
 - Monthly and seasonal patterns in operations
-- Year-over-year comparison of operational metrics
+- moth-over-month comparison of operational metrics
 - Time-based performance insights and forecasting
 
 ---
